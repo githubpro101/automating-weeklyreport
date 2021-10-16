@@ -8,5 +8,5 @@ this is to have backlog archive to look back on, and remember source materials w
 https://www.programiz.com/python-programming/datetime/current-datetime
 learned how to put today's date into the calendar, from many forms which I can choose from. (test2-4)
 
-#https://stackoverflow.com/questions/55150703/python-datetime-get-only-days-from-datetime-object
-#this allows to just get day portion of date
+https://stackoverflow.com/questions/55150703/python-datetime-get-only-days-from-datetime-object
+this allows to just get day portion of date (look at HGalloway's answer)
