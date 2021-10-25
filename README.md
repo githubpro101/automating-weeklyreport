@@ -10,3 +10,5 @@ learned how to put today's date into the calendar, from many forms which I can c
 
 https://stackoverflow.com/questions/55150703/python-datetime-get-only-days-from-datetime-object
 this allows to just get day portion of date (look at HGalloway's answer)
+
+linkedin0714.py is non-related project but it is an attempt to automate inkedin posting process using selenium
