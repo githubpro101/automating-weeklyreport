@@ -10,8 +10,9 @@ time.sleep(2)
 username=driver.find_element_by_id("session_key")
 password=driver.find_element_by_id("session_password")
 
-username.send_keys('frank.won3@gmail.com')
-password.send_keys('dnjs2552')
+username.send_keys('')
+password.send_keys('')   
+# use prompt function or input username and password later
 time.sleep(2)
 
 submit=driver.find_element_by_xpath("//button[@type='submit']").click()
